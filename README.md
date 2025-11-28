@@ -1,0 +1,29 @@
+# 🚀 ShadowFox Internship Projects
+
+This repository contains all the projects I developed during my internship at *ShadowFox*.  
+Each project is organized in its own folder with source code, documentation, and demo (if available).
+
+---
+
+# 📂 Projects List
+
+## 1. [Beginner_Level](https://github.com/Likith-java/ShadowFox/tree/main/1_Beginer_Level)
+### [Boston_House_Price_Prediction](https://github.com/Likith-java/ShadowFox/tree/main/1_Beginer_Level#readme)
+- 🔹 Description: This project demonstrates house price prediction using Machine Learning regression algorithms built with scikit-learn. The model is trained on the classic Boston Housing dataset containing 506 samples with 13 features including crime rate, average rooms, location factors, and socio-economic indicators to predict median home values.
+- 🔹 Tech Stack: Python, Flask, scikit-learn, pandas, numpy, matplotlib, seaborn.
+
+---
+
+## 2. [Intermediate_Level](https://github.com/Likith-java/ShadowFox/tree/main/2_Intermediate_Level)
+### [Car_Price_Prediction](https://github.com/Likith-java/ShadowFox/tree/main/2_Intermediate_Level#readme)
+- 🔹 Description: This project demonstrates car selling price prediction using Machine Learning algorithms built with scikit-learn and Flask. The model is trained on real car sales dataset containing 299 transactions with features like car age, mileage, fuel type, and present price to accurately predict selling prices.
+- 🔹 Tech Stack: Python, React.js, Flask, scikit-learn, pandas, numpy, recharts, matplotlib.
+
+---
+
+## 📖 How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Likith-java/ShadowFox.git
+   ```
+   
