@@ -117,7 +117,7 @@ function App() {
       <footer className="App-footer-dark">
         <div className="footer-glow"></div>
         <p>Built with React & Flask | Model Accuracy: 91.79% | © 2025</p>
-        <p>Developed by Keerthan B M</p>
+        <p>Developed by Likith v Shetty</p>
       </footer>
     </div>
   );
